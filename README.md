@@ -5,8 +5,6 @@
 ---
 
 ## 🚀 About Me
-- 4th-year student at Epitech  
-- Apprentice at Guidor  
 - Focused on iOS development (UIKit & SwiftUI)  
 - Also working with React, Docker, and CI/CD  
 - Interested in AI and applied mathematics  
@@ -28,7 +26,7 @@ Swift • UIKit • SwiftUI • TypeScript • React • Docker • CI/CD
 
 ## 📫 Contact
 - Email: sharikmohamed8@gmail.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- LinkedIn: https://www.linkedin.com/in/sharik-abubucker-393194205/
 
 ---
 
